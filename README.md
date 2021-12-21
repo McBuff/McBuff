@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McBuff
-- 🌱 I’m currently learning python, the Revit API & Forge Api
-- 💞️ I’m looking to collaborate on Standalone Revit plugins
+- 🌱 I’m currently learning python, the Revit API & Forge Api. I have a solid foundation in C++ and some C# as well.
+- 💞️ I’m looking to collaborate on Standalone Revit plugins, but I'm not averse to other coding projects.
 - 📫 How to reach me: Shoot me a message on github.
 
 <!---
